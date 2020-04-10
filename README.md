@@ -11,6 +11,6 @@ When ResNet50 transfer learning was used, accuracy increased to 70%.
 Pretrained models has right weights and so, it leads to good results.
 
 ## Three possible areas for improvement:
-More datapoints for each dog class would improve accuracy.
-Better transfer learning models with more layers
-More epochs is increasing score defintely but compuationally expensive
+1. More datapoints for each dog class would improve accuracy
+2. Better transfer learning models with more layers
+3. More epochs would increase score but compuationally expensive
